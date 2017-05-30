@@ -9,3 +9,5 @@ Demo reasons
 ## Purpose
 
 Sample website with plenty of files for demos (lesson)
+
+#Simple web project
