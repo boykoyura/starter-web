@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work (udemy course)
 
-#Deployment
+##Deployment
 
 Demo reasons
 
@@ -10,4 +10,6 @@ Demo reasons
 
 Sample website with plenty of files for demos (lesson)
 
-#Simple web project
+##Simple web project
+
+## Copyright
